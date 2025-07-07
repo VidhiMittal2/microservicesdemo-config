@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+#For configuration properties demo
+accounts:
+  message: "Welcome to Banking QA API's DEMO - Accounts"
+  contactDetails:
+    name: "Mary Anne - QA Lead"
+    email: "mary@example.com"
+  onCallSupport:
+    - (555)555-7890
+    - (555)555-7891

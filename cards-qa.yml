@@ -1,0 +1,12 @@
+#User defined properties - for QA environment
+build:
+  version: "2.0"
+#For configuration properties demo
+cards:
+  message: "Welcome to Banking QA API's DEMO - Cards"
+  contactDetails:
+    name: "Mary Anne - QA Lead"
+    email: "mary@example.com"
+  onCallSupport:
+    - (555)555-7890
+    - (555)555-7891

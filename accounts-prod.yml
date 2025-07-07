@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+#For configuration properties demo
+accounts:
+  message: "Welcome to Banking Prod API's DEMO - Accounts"
+  contactDetails:
+    name: "Susan Cho - Product owner"
+    email: "susan@example.com"
+  onCallSupport:
+    - (555)555-4566
+    - (555)555-4567

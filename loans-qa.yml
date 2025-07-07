@@ -1,0 +1,12 @@
+#User defined properties
+build:
+  version: "2.0"
+#For configuration properties demo
+loans:
+  message: "Welcome to Banking API's QA DEMO - Loans"
+  contactDetails:
+    name: "Mary Jane - QA"
+    email: "mary@example.com"
+  onCallSupport:
+    - (555)555-1670
+    - (555)555-1671

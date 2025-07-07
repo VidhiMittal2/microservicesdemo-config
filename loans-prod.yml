@@ -1,0 +1,12 @@
+#User defined properties
+build:
+  version: "1.0"
+#For configuration properties demo
+loans:
+  message: "Welcome to Banking API's Prod DEMO - Loans"
+  contactDetails:
+    name: "Jack MA - Product Owner"
+    email: "jack@example.com"
+  onCallSupport:
+    - (555)555-7890
+    - (555)555-7891

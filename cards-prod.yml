@@ -1,0 +1,12 @@
+#User defined properties - for Prod environment
+build:
+  version: "1.0"
+#For configuration properties demo
+cards:
+  message: "Welcome to Banking Prod API's DEMO - Cards"
+  contactDetails:
+    name: "Susan Cho - Product owner"
+    email: "susan@example.com"
+  onCallSupport:
+    - (555)555-4566
+    - (555)555-4567
