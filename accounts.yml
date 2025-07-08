@@ -6,7 +6,7 @@ build:
   version: "3.0"
 #For configuration properties demo
 accounts:
-  message: "Welcome to Banking API's DEMO - Accounts"
+  message: "Welcome to Banking API's DEMO - Accounts - WebHook - Docker"
   contactDetails:
     name: "John Doe - developer"
     email: "john@example.com"
