@@ -3,7 +3,7 @@ build:
   version: "1.0"
 #For configuration properties demo
 cards:
-  message: "Welcome to Banking Prod WebHook API's DEMO - Cards"
+  message: "Welcome to Banking Production WebHook API's DEMO - Cards"
   contactDetails:
     name: "Susan Cho - Product owner"
     email: "susan@example.com"
