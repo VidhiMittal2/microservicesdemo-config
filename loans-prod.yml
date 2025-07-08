@@ -3,7 +3,7 @@ build:
   version: "1.0"
 #For configuration properties demo
 loans:
-  message: "Welcome to Banking API's Production DEMO - Loans"
+  message: "Welcome to Banking API's Prod DEMO - Loans"
   contactDetails:
     name: "Jack MA - Product Owner"
     email: "jack@example.com"
