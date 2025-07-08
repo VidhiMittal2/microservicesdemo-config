@@ -2,7 +2,7 @@ build:
   version: "1.0"
 #For configuration properties demo
 accounts:
-  message: "Welcome to Banking Production API's DEMO - Accounts"
+  message: "Welcome to Banking Prod API's DEMO - Accounts"
   contactDetails:
     name: "Susan Cho - Product owner"
     email: "{cipher}c46d2a6c2212b0b5a489d4d30d421e3c15f2cf8e48a3c0f8be2069f991f4ffaa0c2b310551380aab2ee90f2a35901d76"
