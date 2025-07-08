@@ -3,7 +3,7 @@ build:
   version: "2.0"
 #For configuration properties demo
 cards:
-  message: "Welcome to Banking QA API's DEMO - Cards"
+  message: "Welcome to Banking QA API's DEMO - Cards - webHook Docker demo"
   contactDetails:
     name: "Mary Anne - QA Lead"
     email: "mary@example.com"
